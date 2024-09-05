@@ -11,6 +11,3 @@ the file `assets/minecraft/shaders/include/test.glsl`:
 ```glsl
 #import <minecraft:include/test.glsl>
 ```
-I recommend to create custom glsl files, which you can `#import` in your shaders (in both core shaders and sodium shaders).
-These files, should contain your main shader "logic". An example shaderpack, which
-works on both vanilla and sodium, can be found [here](https://github.com/lni-dev/MinecraftShaders/tree/master/EnergyShaders%20%5BJava%5D/current/Energy%20Shaders%20%5BJava%5D/assets).
