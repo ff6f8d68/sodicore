@@ -1,6 +1,6 @@
 # sodicore
 
-Enables resourcepacks to replace sodium's shaders, similar to resourcepacks being able to replace vanilla's core shaders.
+sodium but support for core shaders in resourcepacks
 
 ## How to write shaders for sodium?
 Sodium shaders are similar to core shaders, but not the same.
